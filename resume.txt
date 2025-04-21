@@ -1,0 +1,67 @@
+Ghassen Kharrat
+Full Stack Web Developer
+📧 kharrat.ghassen@gmail.com | 📞 +216 55 461 811
+🔗 linkedin.com/in/kharrat-ghassen-63242461 | 💻 github.com/ghassen-kharrat
+
+Summary
+Full Stack Developer with experience in web and mobile development. Skilled in building responsive applications using modern technologies. Comfortable working on both frontend and backend, with a focus on performance and usability.
+
+Technical Skills
+Frontend Development
+React.js, Next.js, Vue.js
+HTML, CSS, Tailwind CSS, Bootstrap
+JavaScript (ES6+), TypeScript
+Redux, Zustand, Context API
+Backend Development
+Node.js, Express.js, Nest.js
+REST APIs, GraphQL
+Authentication (JWT, OAuth, Supabase Auth)
+Databases Management
+MySQL, PostgreSQL, MongoDB
+Prisma, Sequelize, Mongoose
+Tools & DevOps
+Docker, CI/CD, GitHub Actions
+AWS, Firebase, Supabase
+WebSockets (Socket.io)
+Testing & Debugging
+Jest, Mocha, Chai
+Postman, Thunder Client
+
+Professional Skills
+Problem-Solving
+Team Collaboration
+Adaptability
+Time Management
+
+Projects
+Fallah SMART – Agricultural App (Jan – Feb 2025)
+Built a smart farming app with stock management, AI-based plant scanning, and financial tracking tools.
+Implemented a stock management system with low-stock alerts and real-time notifications.
+Integrated a BI module for generating statistics, performance insights, and personalized farming advice.
+Collaborated within an Agile team to deliver a mobile-friendly, intuitive UX/UI for diverse users.
+Game Zone – Gaming Platform (Jan 2025)
+Created a website for 2D/3D games, user authentication, and live chat.
+Designed the scoring system and developed game prototypes.
+Implemented chat rooms using Socket.io.
+Dish Dash – Food Delivery App (Feb 2025)
+Developed a food delivery app with live tracking and secure payments.
+Built real-time order tracking and integrated Stripe payments.
+
+Work Experience
+Expert – Visa Project, UNFTK, Tunisia (2024)
+Financial Manager – AVEP Project, Autrement, Tunisia (2023)
+Expert – Ready Project, ADL Kairouan, Tunisia (2022)
+Action Director – JCI Kairouan (2021)
+Facilitator – Tamkeen For Development (T4D) Project (2021)
+Project Coordinator – Youth's Future Project (2020)
+Project Director – ALDA, Tunisia (2019)
+
+Education
+Master's in Financial Engineering – ISMAI, Kairouan (2013)
+Bachelor's in Finance – IHEC, Sousse (2011)
+Baccalauréat in Experimental Sciences – Lycée Pilote Kairouan (2008)
+
+Languages
+English: Fluent
+French: Fluent
+Arabic: Native 
